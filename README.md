@@ -1,9 +1,9 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Giulia Verruck Tortola
+- Izabella Mezeck Rodrigues
+- Janayna Aparecida de Paiva Cortez
 
 Link do Surge: www.link.com.br
 
