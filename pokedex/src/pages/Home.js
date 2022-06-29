@@ -16,6 +16,20 @@ const Home = () => {
         <PokemonCard/>
         <PokemonCard/>
         <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
+        <PokemonCard/>
         </Grid>
         </>
     )
